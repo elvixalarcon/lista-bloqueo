@@ -1,1 +1,4 @@
-157.240.0.0/16   # facebook
+facebook.com
+www.facebook.com
+tiktok.com
+youtube.com
